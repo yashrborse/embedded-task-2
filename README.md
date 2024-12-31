@@ -48,3 +48,4 @@ void loop() {
       break;
   }
 }
+![embedded task2 Screenshot 2024-12-30 131748](https://github.com/user-attachments/assets/ed0ea972-b68d-4fd9-ac8d-a161b22a4e94)
